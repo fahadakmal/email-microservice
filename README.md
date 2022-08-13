@@ -22,6 +22,30 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
+## Developer notes
+
+```
+NESTJS microservices
+Cline below repo
+     https://github.com/antoniopapa/nest-ambassador
+     https://github.com/antoniopapa/react-ambassador
+Install npm packages In both
+Setup gap account
+Setup new project
+Go to marketplace
+Setup apache Kafka on confluent cloud
+Go confluent cloud and do all setupCreate topic
+Create message
+Make consumer
+Make producer
+Setup All these things
+Install Kafka
+npm i --save kafkajs
+Install microservices package
+npm i --save @nestjs/microservices
+Install nest
+```
+
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
