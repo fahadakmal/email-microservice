@@ -35,6 +35,7 @@ Setup new project
 Go to marketplace
 Setup apache Kafka on confluent cloud
 Go confluent cloud and do all setupCreate topic
+Create api key
 Create message
 Make consumer
 Make producer
